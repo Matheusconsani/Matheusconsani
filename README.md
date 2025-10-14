@@ -2,7 +2,7 @@
 **`Desenvolvedor iniciante`**
 
 👋 Olá! Tenho 16 anos e estudo Análise e Desenvolvimento de Sistemas no IFSP.
-💻 Estudo atualmente Python, C, Html e Css.
+💻 Estudo atualmente Python, C, Html, Css e Git
 
 <p align="left">
     <a href="https://github.com/Matheusconsani?tab=repositories&sort=stargazers">
