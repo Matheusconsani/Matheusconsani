@@ -1,8 +1,8 @@
 # 👨‍💻 Matheus Consani
 **`Desenvolvedor iniciante`**
 
-👋 Olá! Tenho 16 anos e estudo Análise e Desenvolvimento de Sistemas no IFSP.
-💻 Estudo atualmente Python, C, Html, Css e Git
+👋 Olá! Tenho 17 anos e Sou um desenvolvedor junior que estuda no Instituto Federal fazendo curso técnico.
+💻 Ja estudei ou estou estudando: Python, C, Html, Css, Git, Js, Flask, Mysql, Brmodelo3.
 
 <p align="left">
     <a href="https://github.com/Matheusconsani?tab=repositories&sort=stargazers">
